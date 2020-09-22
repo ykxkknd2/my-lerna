@@ -2,6 +2,7 @@
   "name": "module1",
   "version": "0.0.2",
   "dependencies": {
+    "module2": "^1.0.0",
     "vue": "^2.6.11"
   },
   "gitHead": "88e0aae7cdc21f2edc42414d5cf5c9a278d3d21e"
