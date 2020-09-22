@@ -3,5 +3,6 @@
   "version": "0.0.1",
   "dependencies": {
     "vue": "^2.6.11"
-  }
+  },
+  "gitHead": "f4946522f6014faaa089c6ae37c349b7431ef1a9"
 }
