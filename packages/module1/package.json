@@ -1,8 +1,8 @@
 {
   "name": "module1",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "dependencies": {
-    "module2": "^0.0.3",
+    "module2": "^0.0.4",
     "vue": "^2.6.11"
   },
   "gitHead": "d2f019351a2314560db0ed1574d089b0974dd6e0"
